@@ -1,4 +1,3 @@
-Kristian	
-Germany	
+Faris
 Meta Front-End course
 
